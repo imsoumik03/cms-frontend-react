@@ -31,6 +31,7 @@
     justify-content: center;
     align-items: center;
     box-shadow:white 2px 2px 6px;
+    /* background-color: rgb(113, 123, 84); */
 }
 #about_aside div:hover{
     transform:translateY(-2px);
