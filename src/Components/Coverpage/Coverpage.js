@@ -10,15 +10,6 @@ const Coverpage = () => {
         window.scrollTo({top:200, left: 0, behavior:"smooth"});
     },[]);
 
-  // const divStyle = {
-  //   width: "100vw",
-  //   height: "100vh",
-  //   backgroundSize:"cover",
-  //   display: "flex",
-  //   flexDirection:"column",
-  //   justifyContent:"center",
-  //   alignItems:"center",
-  // };
   const buttonStyle={
     backgroundColor:"#337c99",
     margin:"20px",
